@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+//This program aims to evaluate whether the median or the average is more accurate in income surveys under different circumstances.
+
 int main(){
 	int N = 0;
 	int middle = 0;
@@ -42,3 +44,4 @@ int main(){
 
 	return 0;
 }
+
